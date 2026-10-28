@@ -10,17 +10,15 @@
 
 <br/>
 
+<h1 align="center">Vivek Rajak</h1>
+<p align="center"><i>Full-Stack Developer • AI Builder • Problem Solver</i></p>
+
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=700&q=80" width="220" height="220" alt="Vivek Rajak portrait" style="border-radius:50%; border:4px solid #f59e0b; object-fit:cover; box-shadow: 0 0 18px rgba(245,158,11,.35);"/>
+  <a href="https://github.com/Vivek1566"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-<p align="center"><i>"A sharp mind grows through code, consistency, and courage."</i></p>
-
-<table align="center" width="100%">
-<tr>
-<td width="58%" valign="middle">
-
-### 👋 Hey, I’m Vivek
 
 I’m a software developer focused on building practical products, strong backend systems, and AI-powered experiences. I enjoy working across the stack—from polished user interfaces to reliable data flows and scalable application logic.
 
@@ -32,57 +30,18 @@ interests: [Full-stack apps, APIs, cloud, automation, problem solving]
 mantra: "Build with purpose. Learn with discipline. Level up daily."
 ```
 
-</td>
-<td width="42%" valign="middle">
+---
 
-### ⚡ What I bring
-- Full-stack product development
-- API and backend architecture
-- AI-powered experiences and workflows
-- Real-world problem solving
-- Scalable, maintainable engineering
+## 🎯 What I Do
 
-</td>
-</tr>
-</table>
+- 🤖 AI / ML applications and intelligent workflows
+- 🌐 Full-stack web development with clean UX
+- ⚙️ Backend architecture and API design
+- 🛠️ Building real-world products from idea to deployment
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a27f-3f0f-4b2f-8d78-b1b11d8a84e0.gif" width="100%" alt="divider" />
+---
 
-<h2 align="center">🎯 What I Do</h2>
-<p align="center"><i>From idea to delivery, I build systems that are useful, polished, and dependable.</i></p>
-
-<table align="center" width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
-
-### 🤖 AI / ML
-Building intelligent product features and practical AI-based workflows.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🌐 Web Dev
-Creating responsive, full-stack apps with strong user experiences.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### ⚙️ Backend
-Designing reliable APIs, data flows, and scalable application logic.
-
-</td>
-<td width="25%" align="center" valign="top">
-
-### 🛠️ Builder
-Turning ideas into real, working digital solutions.
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a27f-3f0f-4b2f-8d78-b1b11d8a84e0.gif" width="100%" alt="divider" />
-
-<h2 align="center">⚙️ Tech Arsenal</h2>
+## ⚙️ Tech Arsenal
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
@@ -99,53 +58,22 @@ Turning ideas into real, working digital solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis" />
 </p>
 
-<table align="center" width="100%">
-<tr>
-<td width="46%" valign="middle">
+---
 
-<strong>🤖 AI / ML</strong><br/>
-`Python` `Machine Learning` `AI Integrations` `Data Pipelines`
-
-<strong>🌐 Frontend</strong><br/>
-`HTML5` `CSS3` `JavaScript` `React` `Tailwind CSS`
-
-<strong>⚙️ Backend</strong><br/>
-`Node.js` `Express` `FastAPI` `REST APIs` `JWT`
-
-<strong>🗄️ Databases</strong><br/>
-`MongoDB` `PostgreSQL` `MySQL` `SQLite`
-
-<strong>☁️ Tools</strong><br/>
-`Git` `GitHub` `Docker` `VS Code` `Postman`
-
-<strong>💻 Languages</strong><br/>
-`Python` `JavaScript` `TypeScript` `Java` `C++`
-
-</td>
-<td width="54%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/244963265-1f80ea84-9ef8-49f0-b47d-7d7ee67f3e97.gif" width="88%" alt="anime-style coding animation" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a27f-3f0f-4b2f-8d78-b1b11d8a84e0.gif" width="100%" alt="divider" />
-
-<h2 align="center">🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 #### 🌍 [Drishti](https://github.com/Vivek1566/Drishti)
-*AI-driven GIS decision-support platform* 
+*AI-driven GIS decision-support platform*
 
 An intelligent platform for risk analysis and relocation planning using GIS, disaster datasets, and predictive insights.
 
@@ -157,7 +85,7 @@ An intelligent platform for risk analysis and relocation planning using GIS, dis
 <td width="50%" valign="top">
 
 #### 🧠 [Nexora](https://github.com/Vivek1566/Nexora)
-*Startup collaboration and innovation platform* 
+*Startup collaboration and innovation platform*
 
 A platform designed for founders, mentors, and stakeholders to collaborate, evaluate ideas, and build smarter ventures.
 
@@ -171,7 +99,7 @@ A platform designed for founders, mentors, and stakeholders to collaborate, eval
 <td width="50%" valign="top">
 
 #### 👩‍⚕️ [Skincare-Chatbot](https://github.com/Vivek1566/Skincare-Chatbot)
-*AI-based skincare assistant* 
+*AI-based skincare assistant*
 
 A chatbot project focused on skincare recommendations and smart conversational assistance.
 
@@ -183,7 +111,7 @@ A chatbot project focused on skincare recommendations and smart conversational a
 <td width="50%" valign="top">
 
 #### 🏫 [Edugame-Hackathon](https://github.com/Vivek1566/Edugame-Hackathon)
-*Hackathon web project for an educational game concept* 
+*Hackathon web project for an educational game concept*
 
 A creative education-focused web experience built during a hackathon challenge.
 
@@ -197,7 +125,7 @@ A creative education-focused web experience built during a hackathon challenge.
 <td width="50%" valign="top">
 
 #### 🤝 [AlmuminiV3](https://github.com/Vivek1566/AlmuminiV3)
-*Alumni networking and mentorship platform* 
+*Alumni networking and mentorship platform*
 
 A modern alumni network with real-time messaging, mentoring, and AI-powered career support.
 
@@ -209,7 +137,7 @@ A modern alumni network with real-time messaging, mentoring, and AI-powered care
 <td width="50%" valign="top">
 
 #### 🌐 [MyPortfolio](https://github.com/Vivek1566/MyPortfolio)
-*Developer portfolio website* 
+*Developer portfolio website*
 
 A portfolio site built with React, Vite, GSAP, and Three.js to showcase projects, skills, and journey.
 
@@ -221,24 +149,20 @@ A portfolio site built with React, Vite, GSAP, and Three.js to showcase projects
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a27f-3f0f-4b2f-8d78-b1b11d8a84e0.gif" width="100%" alt="divider" />
+---
 
-<h2 align="center">📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vivek1566&hide_border=true&background=0D1117&ring=F59E0B&fire=F97316&currStreakLabel=FDE68A&sideLabels=F3F4F6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FDE68A" alt="GitHub streak" />
-
-<br/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek1566&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=FDBA74&text_color=F9FAFB&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1566&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=F9FAFB" alt="Top languages" />
-
+  <img src="https://streak-stats.demolab.com?user=Vivek1566&hide_border=true&background=0D1117&ring=F59E0B&fire=F97316&currStreakLabel=FDE68A&sideLabels=F3F4F6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FDE68A" alt="GitHub streak" />
+  <br />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vivek1566&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=FDBA74&text_color=F9FAFB&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek1566&layout=compact&hide_border=true&bg_color=0D1117&title_color=F59E0B&text_color=F9FAFB" alt="Top languages" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a27f-3f0f-4b2f-8d78-b1b11d8a84e0.gif" width="100%" alt="divider" />
+---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
@@ -247,20 +171,9 @@ A portfolio site built with React, Vite, GSAP, and Three.js to showcase projects
   </picture>
 </p>
 
-<p align="center"><i>Consistency grows strength.</i></p>
+---
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a27f-3f0f-4b2f-8d78-b1b11d8a84e0.gif" width="100%" alt="divider" />
-
-<table align="center" width="100%">
-<tr>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=700&q=80" width="100%" alt="Team and growth" style="border-radius:16px; object-fit:cover;" />
-
-</td>
-<td width="65%" valign="middle">
-
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - ⚙️ Advanced backend design
 - 🧠 AI and product integration
@@ -268,32 +181,15 @@ A portfolio site built with React, Vite, GSAP, and Three.js to showcase projects
 - ☁️ Deployment and cloud workflows
 - 📊 Data structures and algorithmic thinking
 
-### ⚡ Interests
+---
 
-🤖 AI · 🌐 Full Stack · ☁️ Cloud · 🚀 Product Building · 💻 Engineering
-
-### ✨ Mindset
-
-- Build real-world solutions, not just demos
-- Keep engineering clean and maintainable
-- Learn continuously and ship consistently
-- Stay calm, focused, and ambitious
-
-</td>
-</tr>
-</table>
-
-<h2 align="center">🤝 Let’s Connect</h2>
-
-<p align="center">If you’re building something interesting or want to collaborate, I’d love to connect.</p>
+## 🤝 Let’s Connect
 
 <p align="center">
-<a href="https://github.com/Vivek1566"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://github.com/Vivek1566"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 <p align="center"><b>⭐ Thanks for visiting my profile.</b><br/><i>"Build with purpose. Grow with discipline."</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:F97316,100:7C2D12&height=140&section=footer&animation=twinkling" width="100%" />
