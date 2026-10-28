@@ -1,49 +1,5 @@
 <p align="center">
-  <svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vivek Rajak anime-inspired banner">
-    <defs>
-      <linearGradient id="bg" x1="0" x2="1" y1="0" y2="0">
-        <stop offset="0%" stop-color="#120d1d"/>
-        <stop offset="48%" stop-color="#1d1b32"/>
-        <stop offset="100%" stop-color="#0f172a"/>
-      </linearGradient>
-      <linearGradient id="chakra" x1="0" x2="1">
-        <stop offset="0%" stop-color="#fbbf24"/>
-        <stop offset="100%" stop-color="#f97316"/>
-      </linearGradient>
-      <radialGradient id="orb" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#fef3c7" stop-opacity="1"/>
-        <stop offset="55%" stop-color="#f59e0b" stop-opacity="0.8"/>
-        <stop offset="100%" stop-color="#f59e0b" stop-opacity="0"/>
-      </radialGradient>
-    </defs>
-    <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
-    <circle cx="990" cy="80" r="180" fill="url(#orb)" opacity="0.8"/>
-    <circle cx="1060" cy="90" r="18" fill="#fef3c7" opacity="0.9"/>
-    <circle cx="1015" cy="160" r="12" fill="#fbbf24" opacity="0.8"/>
-    <circle cx="1120" cy="122" r="10" fill="#fbbf24" opacity="0.8"/>
-    <path d="M860 270 L1085 270 L1118 320 L832 320 Z" fill="#111827" opacity="0.6"/>
-    <path d="M880 255 C925 220, 1000 185, 1098 192 L1098 270 L880 270 Z" fill="#0f172a" opacity="0.72"/>
-
-    <g transform="translate(770 35)">
-      <path d="M140 110 C140 70, 170 30, 220 30 C270 30, 300 70, 300 110 L300 155 C300 196, 262 232, 220 232 C176 232, 140 194, 140 155 Z" fill="#1f2937"/>
-      <path d="M170 100 C170 72, 192 52, 220 52 C248 52, 270 72, 270 100 L270 148 C270 177, 247 201, 220 201 C193 201, 170 177, 170 148 Z" fill="#f8fafc" opacity="0.9"/>
-      <rect x="191" y="86" width="58" height="48" rx="8" fill="#f97316"/>
-      <path d="M208 104 Q220 113 232 104" stroke="#0f172a" stroke-width="5" fill="none" stroke-linecap="round"/>
-      <path d="M190 144 Q220 165 250 144" stroke="#0f172a" stroke-width="5" fill="none" stroke-linecap="round"/>
-      <path d="M135 10 C182 -10, 226 -12, 282 20 L284 68 L196 72 L135 10 Z" fill="#111827" opacity="0.75"/>
-      <path d="M150 80 L92 142 L122 170 L178 126 Z" fill="#111827" opacity="0.8"/>
-      <path d="M286 80 L344 142 L315 170 L258 126 Z" fill="#111827" opacity="0.8"/>
-      <path d="M120 206 L154 176 L180 228 L131 246 Z" fill="#f59e0b" opacity="0.9"/>
-      <path d="M320 206 L286 176 L260 228 L308 246 Z" fill="#f59e0b" opacity="0.9"/>
-    </g>
-
-    <g>
-      <text x="58" y="118" fill="#F8FAFC" font-size="52" font-family="Georgia, serif" font-weight="700">Vivek Rajak</text>
-      <text x="58" y="170" fill="#FDE68A" font-size="25" font-family="Verdana, sans-serif" font-weight="600">Full-Stack Developer • AI Builder • Problem Solver</text>
-      <rect x="58" y="192" width="310" height="50" rx="25" fill="url(#chakra)" opacity="0.9"/>
-      <text x="96" y="224" fill="#111827" font-size="22" font-family="Verdana, sans-serif" font-weight="700">Yokoso • Build • Evolve</text>
-    </g>
-  </svg>
+  <img src="https://images.unsplash.com/photo-1526481280695-3c4691d1503d?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Anime-inspired hero banner" />
 </p>
 
 <div align="center">
@@ -127,6 +83,27 @@ Turning ideas into real, working digital solutions.
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a27f-3f0f-4b2f-8d78-b1b11d8a84e0.gif" width="100%" alt="divider" />
 
 <h2 align="center">⚙️ Tech Arsenal</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="48" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis" />
+</p>
 
 <table align="center" width="100%">
 <tr>
