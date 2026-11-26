@@ -1,4 +1,4 @@
-<p align="center">
+[<p align="center">
   <img src="https://images.unsplash.com/photo-1526481280695-3c4691d1503d?auto=format&fit=crop&w=1400&q=80" width="100%" alt="Anime-inspired hero banner" />
 </p>
 
@@ -193,3 +193,50 @@ A portfolio site built with React, Vite, GSAP, and Three.js to showcase projects
 </p>
 
 <p align="center"><b>⭐ Thanks for visiting my profile.</b><br/><i>"Build with purpose. Grow with discipline."</i></p>
+](https://github.com/user-attachments/assets/8195d367-ab18-4092-a532-6c7aef8f79da
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/Vivek1566?style=for-the-badge&logo=github&color=0D1117&labelColor=F59E0B" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Vivek1566?style=for-the-badge&logo=github&color=0D1117&labelColor=F59E0B" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=Vivek1566&label=PROFILE+VIEWS&style=for-the-badge&color=0D1117&labelColor=F59E0B" alt="Profile views" />
+</div>
+
+<br/>
+
+<h1 align="center">Hi, I'm Vivek Rajak 👋</h1>
+<p align="center">
+  <b>Full-Stack Developer • AI Builder • Problem Solver</b>
+</p>
+
+<p align="center">
+  <a href="https://vivek1566.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Vivek1566" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+I’m a software developer focused on building practical products, resilient backend systems, and AI-powered experiences. I enjoy working end-to-end across the stack—from responsive user interfaces to clean APIs and scalable data pipelines.
+
+```yaml
+developer:
+  name: Vivek Rajak
+  role: Full-Stack Developer & AI Builder
+  portfolio: [https://vivek1566.github.io/MyPortfolio/](https://vivek1566.github.io/MyPortfolio/)
+  focus:
+    - End-to-End Web Applications
+    - AI / ML Workflows & Chatbots
+    - Backend Architecture & REST APIs
+    - Product Engineering & Deployment
+  mantra: "Build with purpose. Learn with discipline. Level up daily.")
